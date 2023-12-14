@@ -2,7 +2,7 @@
 티맥스 office의 오픈 소스 저장소 입니다
 
 # Features
-- <b>[src/components]</b> Ribbon, Dialog, Dropdown, StatusBar, ZoomSlider, Button (Arrow, Toggle)
+- <b>[src/components]</b> Ribbon, Dialog, Dropdown, Label03Component, PortalComponent, StatusBar, ZoomSlider, Button (Arrow, Toggle)
 - <b>[src/node]</b> 문서 컨텐츠 영역에 나타낼 개체들의 base class
 - <b>[src/util]</b> 값 변환, 클래스 id 추가, uuid 생성 등의 작업을 위한 유틸 함수
 
@@ -18,6 +18,7 @@
     │   ├── DialogWrapperComponent.tsx
     │   ├── DropdownCompoent.tsx
     │   ├── DropdownFooterCompoent.tsx
+    │   ├── Label03Component.tsx
     │   ├── PortalComponent.tsx
     │   ├── StatusBarComponent.tsx
     │   ├── ToggleButtonComponent.tsx
